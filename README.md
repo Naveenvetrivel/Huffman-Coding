@@ -32,7 +32,7 @@ Register Number: 212221230068 /*
 
 ``` Python
 # Get the input String
-string = 'NAVEENKUMAR'
+string = 'NAVEENKUMAR 212221230068'
 class NodeTree(object):
     def __init__(self, left=None, right=None): 
         self.left = left
