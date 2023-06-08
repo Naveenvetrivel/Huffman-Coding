@@ -80,7 +80,8 @@ for (char, frequency) in freq:
     
 ## Output:
 ### Print the characters and its huffmancode
-![$2](https://github.com/Naveenvetrivel/Huffman-Coding/assets/94165322/89c4001f-0022-4e00-a0d0-aee1a1e8fa4d)
+![image](https://github.com/Naveenvetrivel/Huffman-Coding/assets/94165322/3c9c7e44-8fe9-4024-a687-2f1e3231fc2d)
+
 
 ## Result
 Thus the huffman coding was implemented to compress the data using python programming.
